@@ -8,7 +8,7 @@ R script "predict on new data" provides examples to implement each model
 
 ## Manuscript data
 The data used in the accompanying manuscript for each model is found in directory figur1/
-Columns are organized as follows:
+Columns are organized as follows: \newline
 A: subject ID
 B: root mean square error in kilocalories per minute
 C: root mean square error in METs
