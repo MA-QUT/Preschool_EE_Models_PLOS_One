@@ -1,4 +1,4 @@
-#Preschool energy expenditure prediction models for wrist and hip worn accelerometers
+# Preschool energy expenditure prediction models for wrist and hip worn accelerometers
 
 ## Predict energy expenditure on new data
 free-living energy expenditure prediction models can be found in directory models/. Each file contains a
