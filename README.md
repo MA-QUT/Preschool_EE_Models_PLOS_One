@@ -8,3 +8,14 @@ R script "predict on new data" provides examples to implement each model
 
 ## Manuscript data
 The data used in the accompanying manuscript for each model is found in directory figur1/
+Columns are organized as follows:
+A: subject ID
+B: root mean square error in kilocalories per minute
+C: root mean square error in METs
+D: mean absolute percent error
+E: observed energy expenditure
+F: mean bias
+G: mean percent bias
+F: model type
+acronyms: 
+  fl: free-living
