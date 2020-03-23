@@ -12,8 +12,8 @@ Columns are organized as follows: /newline
 1) A: subject ID
 2) B: root mean square error in kilocalories per minute
 3) C: root mean square error in METs
-D: mean absolute percent error
-E: observed energy expenditure
+D: mean absolute percent error  
+E: observed energy expenditure  
 F: mean bias
 G: mean percent bias
 F: model type
