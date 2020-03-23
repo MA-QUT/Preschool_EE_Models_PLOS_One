@@ -20,8 +20,8 @@ F: model type
   
 acronyms:  
   fl: free-living  
-  retrained: retrained free-living
-  lab: laboratory
+  retrained: retrained free-living  
+  lab: laboratory  
   rf: Random Forest  
   svm: Support Vector Machine  
   ann: Artificial Neural Network  
