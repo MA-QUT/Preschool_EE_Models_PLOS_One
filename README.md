@@ -7,7 +7,7 @@ All models provide energy expenditure predictions in 10 second windows.
 The accompanying [R script](https://github.com/MA-QUT/Preschool_EE_Models_PLOS_One/blob/master/predict%20on%20new%20data.R) provides examples to implement each model
 
 ## Manuscript data
-The data used in the corresponding manuscript for the models is found in directory [manuscript data](https://github.com/MA-QUT/Preschool_EE_Models_PLOS_One/tree/master/manuscript%20data)
+The data used in the corresponding manuscript for the results of each model is found in directory [manuscript data](https://github.com/MA-QUT/Preschool_EE_Models_PLOS_One/tree/master/manuscript%20data)
 The columns in the spreadsheets are organized as follows:  
 A: subject ID  
 B: root mean square error in kilocalories per minute  
