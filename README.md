@@ -6,6 +6,8 @@ machine learning model for a specific accelerometer placement.
 All models provide energy expenditure predictions in 10 second windows.
 R script "predict on new data" provides examples to implement each model
 
+[Lets go to Quora](https://www.quora.com)
+
 ## Manuscript data
 The data used in the accompanying manuscript for each model is found in directory figur1/
 Columns are organized as follows:  
