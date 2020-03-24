@@ -1,10 +1,10 @@
 # Preschool energy expenditure prediction models for wrist and hip worn accelerometers
 
 ## Predict energy expenditure on new data
-Free-living energy expenditure prediction models can be found in directory [models](https://github.com/MA-QUT/Preschool_EE_Models_PLOS_One/tree/master/models). Each file contains a
-machine learning model for a specific accelerometer placement.
+Free-living energy expenditure prediction models can be found in directory [models](https://github.com/MA-QUT/Preschool_EE_Models_PLOS_One/tree/master/models). The directory contains
+machine learning models and sample data for a specific accelerometer placement.
 All models provide energy expenditure predictions in 10 second windows.
-The accompanying [R script](https://github.com/MA-QUT/Preschool_EE_Models_PLOS_One/blob/master/predict%20on%20new%20data.R) provides examples to implement each model
+The accompanying [R script](https://github.com/MA-QUT/Preschool_EE_Models_PLOS_One/blob/master/predict%20on%20new%20data.R) provides examples to implement each model.
 
 ## Manuscript data
 The data used in the corresponding manuscript for the results of each model is found in directory [manuscript data](https://github.com/MA-QUT/Preschool_EE_Models_PLOS_One/tree/master/manuscript%20data)
