@@ -2,7 +2,8 @@
 
 ## Predict energy expenditure on new data
 Free-living energy expenditure prediction models can be found in directory [models](https://github.com/MA-QUT/Preschool_EE_Models_PLOS_One/tree/master/models). The directory contains
-machine learning models and sample data for a specific accelerometer placement.
+machine learning models and sample data for a specific accelerometer placement. The directory also contains a Feature ID spreadsheet
+describing the feature naming protocol used for the models and sample data.
 All models provide energy expenditure predictions in 10 second windows.
 The accompanying [R script](https://github.com/MA-QUT/Preschool_EE_Models_PLOS_One/blob/master/predict%20on%20new%20data.R) provides examples to implement each model.
 
